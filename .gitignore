@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.pdf
+*.epub
+*.heic
+*.jpg
+*.jpeg
+*.png
+page-map.csv
