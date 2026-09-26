@@ -1,0 +1,5 @@
+source_page,kind,rendering,epub_target,review_status,open_issues,omission_reason
+1,cover,image,OEBPS/Text/cover.xhtml,verified,,
+2,text,text,OEBPS/Text/chapter-01.xhtml,verified,,
+3,notes,image,OEBPS/Text/notes-01.xhtml,verified,,
+4,blank,omitted,,not_applicable,,Blank source page
