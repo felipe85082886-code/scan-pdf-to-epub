@@ -1,0 +1,3 @@
+interface:
+  display_name: "扫描 PDF 转 EPUB"
+  short_description: "制作并核对可阅读的扫描书电子版"
